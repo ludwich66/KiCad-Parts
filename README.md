@@ -1,4 +1,4 @@
-# KiCad-Parts
+# KiCad-Parts (6.x)
 Sample of  kicad_mod, kicad_sym parts
 
 1. LED Lamp Driver QX5252F in TO-94 Case
